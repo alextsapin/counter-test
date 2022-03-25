@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    background: #2A2C35;
+    color: white;
+}
+
+.incBox {
+    margin-top: 30px;
+    width: 200px;
+    border: 1px solid white;
+    margin: 50px auto 0;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.inc {
+    font-size: 25px;
+    text-align: center;
+}
+
+.btnBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.red {
+    color: red;
+}
